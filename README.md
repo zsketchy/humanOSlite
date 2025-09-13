@@ -10,7 +10,7 @@ It makes no comment on spirituality, but is fully open to being interpreted as s
 
 Click the `rules.txt` to view the list.
 
-#3 How to contribute
+# How to contribute
 
 This repo is open to have changes proposed. You must follow the linting rules. When proposing a change it must be evidenced or clear that it is a universal, non-partisan change that makes the system more robust. It must not favour one religion over another.
 
