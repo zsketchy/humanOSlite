@@ -1,14 +1,14 @@
-# The Five
+# The Five Principles
 
 ## Why?
 
-This repository contains an ever-evolving but clearly versioned essence of "rules" for how to live a good life as a human being.
+This repository contains an ever-evolving but clearly versioned essence of "principles" for how to live a good life as a human being.
 
 It aims to be as consistent as possible with all religious and philosophical belief systems, targeting a robust and universal system of rules when intertwined as a set.
 
 It makes no comment on spirituality, but is fully open to being interpreted as so due to its targeted universality.
 
-Click the `rules.txt` to view the list.
+Click the `principles.txt` to view the list.
 
 # How to contribute
 
@@ -17,12 +17,12 @@ This repo is open to have changes proposed. You must follow the linting rules. W
 ## Text Linting (i.e. document rules)
 
 To ensure concise, deliberate and clear thought with any wishful change or addition, the rules file has a linter rules for:
-- Maximum of 5 lines (rules)
+- Maximum of 7 lines (heading, free line, 5 rules)
 - Maximum of 10 words per line 
 
 ## How to lint
 
 ```bash
-python3 text_linter.py rules.txt
+python3 text_linter.py principles.txt
 ```
 

@@ -2,7 +2,7 @@
 """
 Text File Linter
 Enforces rules:
-- Maximum 5 lines per file
+- Maximum 7 lines per file
 - Maximum 10 words per line
 """
 
@@ -81,7 +81,7 @@ def main():
     parser.add_argument(
         "--max-lines", 
         type=int, 
-        default=5, 
+        default=7, 
         help="Maximum number of lines allowed (default: 5)"
     )
     parser.add_argument(
